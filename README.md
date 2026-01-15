@@ -1,5 +1,9 @@
 # Kütüphane Yönetim Sistemi (N-Katmanlı Mimari)
 
+## 🎥 Proje Sunum ve Kod Analiz Videosu
+[![Kütüphane Sistemi Sunumu] (https://www.youtube.com/watch?v=ZbTVWsxbv0U)
+
+> **Not:** Videoda projenin katmanlı mimari yapısı, veritabanı bağlantısı ve çalışma prensipleri detaylıca anlatılmıştır.
 Bu proje, **N-Tier Architecture (N-Katmanlı Mimari)** prensipleri kullanılarak geliştirilmiş profesyonel bir kütüphane yönetim sistemidir. C# WinForms arayüzü ve MySQL veritabanı entegrasyonu ile modüler ve sürdürülebilir bir yapı sunar.
 
 Mimari Katmanlar
